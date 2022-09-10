@@ -16,13 +16,6 @@ cat << EOF > ${DIR_TMP}/heroku.json
                 "id": "${ID}"
             }],
             "decryption": "none"
-        },
-        "streamSettings": {
-            "network": "ws",
-            "wsSettings": {
-                "path": "${WSPATH}"
-            }
-        }
     }],
     "outbounds": [{
         "protocol": "freedom"
