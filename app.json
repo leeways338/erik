@@ -6,12 +6,9 @@
         "ID": {
             "description": "UUID",
             "value": "5beca3eb-433d-4b56-b2b2-1201538e16aa"
-        },
-        "WSPATH": {
-            "description": "WebSocket Path",
-            "value": "/"
         }
     },
+    "website": "https://github.com/leeways338/erik",
     "repository": "https://github.com/leeways338/erik",
     "stack": "container"
 }
